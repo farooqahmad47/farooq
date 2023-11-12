@@ -20,6 +20,8 @@ SELECT 'Ahmad' as Name,
        100 as x_size,
        100 as y_size
 FROM dual;
+![image](https://github.com/farooqahmad47/farooq/assets/150562161/3319250e-28f9-44ae-a85b-9d74eff243c7)
+
 The provided example SQL query structure showcases how to retrieve contact details (Name, Cell Number, Email) and define the QR code dimensions (x_size, y_size).
 
 Compatibility:
